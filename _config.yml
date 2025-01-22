@@ -1,0 +1,21 @@
+nav:
+
+  - Home: README.md
+
+  - Data:
+
+      - Introdução: Data/README.md
+
+      - Input: Data/input/
+
+      - Simulação: Data/simulação/
+
+  - Plots: Plots/README.md
+
+  - Scripts:
+
+      - Introdução: Scripts/README.md
+
+      - Análises: Scripts/análises/
+
+      - Visualização: Scripts/visualização/
